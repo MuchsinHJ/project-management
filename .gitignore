@@ -1,0 +1,36 @@
+# Binaries
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go build output
+
+/bin/
+/build/
+/dist/
+/out/
+tmp/
+
+# Go modules
+
+vendor/
+
+# IDE/editor files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs & environment
+
+*.log
+.env
+.env.local
